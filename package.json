@@ -56,7 +56,7 @@
     "es6-promise": "^4.1.0",
     "eslint": "^3.19.0",
     "eslint-plugin-react": "6.10.3",
-    "extract-text-webpack-plugin": "^1.0.1",
+    "extract-text-webpack-plugin": "^2.0.0",
     "file-loader": "^0.11.2",
     "husky": "^0.13.4",
     "ismobilejs": "^0.4.1",
